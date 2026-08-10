@@ -51,23 +51,24 @@ Average movie length came out to about 119 minutes, and honestly the distributio
 Chart images are in `/screenshots`, or you can just open the notebook directly on GitHub to see everything inline.
 ## Screenshots
 
-### Movies vs TV Shows
-![Movies vs TV Shows](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20143910.png)
-
 ### Content Growth Trend
-![Growth Trend](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20143937.png)
+![Growth Trend](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20143910.png)
 
-### Top Genres
-![Top Genres](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20143951.png)
+### Movie Duration Distribution
+![Movie Duration](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20143937.png)
 
-### Top Countries
-![Top Countries](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20144027.png)
+### Top Countries Making Content
+![Top Countries](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20143951.png)
 
-### Genre by Content Type
-![Genre by Type](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20144037.png)
+### Top Genres by Content Type
+![Genre by Type](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20144027.png)
+
+### Seasonal Pattern by Month
+![Seasonal Pattern](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20144037.png)
 
 ### Country-Genre Heatmap
 ![Heatmap](Netflix%20Analysis%20Screenshots/Screenshot%202026-08-10%20144045.png)
+
 
 ## Running it yourself
 Easiest way is to open `Netflix_Analysis.ipynb` right here on GitHub — it'll render the code and charts without needing to run anything. If you want to actually run it, download the notebook and the CSV, keep them in the same folder, and open it in Google Colab or Jupyter.
